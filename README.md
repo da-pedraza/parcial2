@@ -1,2 +1,1 @@
-# Parcial Corte 2
-Daniel Pedraza
+# Parcial Corte 2 - Daniel Pedraza
